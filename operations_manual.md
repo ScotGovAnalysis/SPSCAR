@@ -15,6 +15,11 @@
 
 
 ## About
+
+This manual contains all the necessary information to run the **Scotland public sector communicating analysis with R** group meetings and the [scotland.shinyapps.io](https://www.google.com/url?q=https%3A%2F%2Fwww.shinyapps.io%2Fadmin%2F%23%2Fapplications%2Fall&sa=D&sntz=1&usg=AFQjCNHsH-iEy9lIP7jY7yE5eJ2pSgEXCw) account.
+
+**No passwords or login details should be included here.**
+
 The group was set up in December 2017 by three people representing three different organisations (National Records of Scotland, National Services Scotland and Scottish Government). Since then we have held monthly meetings attended now by around 20 people and more organisations have joined in (NHS Health Scotland, Improvement service and Scottish Parliament Information Centre).
  
 Meetings have been useful to discuss common issues and to help each other in an informal way and some guidelines have been created to ease the learning process for new users. The group is now considering to move to meetings every other month and to a more structured type of meeting where someone will present and lead on a specific topic discussion.
