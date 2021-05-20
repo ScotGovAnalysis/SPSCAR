@@ -31,7 +31,7 @@ The expertise within each organisation is limited (although this group helps it 
 ## Contacts
 Send emails to:
 * Joseph Adams - from National Records of Scotland and the Scottish Government  
-* Jaime Villacampa - from NHS National Services Scotland  
+* Jaime Villacampa - from Public Health Scotland  
 * Nick Cassidy - from Improvement Service  
 * Damon Davies - from the Scottish Parliament  
 * Gregor Welsh - from the Scottish Fire and Rescue Service  
@@ -44,11 +44,10 @@ Send emails to:
 * Graeme West - from Audit Scotland  
 
 Copy this into the to: email field:  
-joseph.adams@nrscotland.gov.uk; jaime.villacampa@nhs.net; nicholas.cassidy@improvementservice.org.uk; Damon.Davies@parliament.scot; Gregor.Welsh@firescotland.gov.uk; jbird@sfc.ac.uk; Rachael.Fairley@ros.gov.uk; May.Shirkhorshidi@nature.scot; L-Allen@dfid.gov.uk; Faith.Chung@fss.scot; Nicola.Potts@sportscotland.org.uk; gwest@audit-scotland.gov.uk
+joseph.adams@nrscotland.gov.uk; jaime.villacampa@phs.scot; nicholas.cassidy@improvementservice.org.uk; Damon.Davies@parliament.scot; Gregor.Welsh@firescotland.gov.uk; jbird@sfc.ac.uk; Rachael.Fairley@ros.gov.uk; May.Shirkhorshidi@nature.scot; L-Allen@dfid.gov.uk; Faith.Chung@fss.scot; Nicola.Potts@sportscotland.org.uk; gwest@audit-scotland.gov.uk
 
 Then they would forward emails on to their R users groups.
 * Joseph Adams to RUserGroupDL@gov.scot
-* Jaime Villacampa to nss.Rusergp@nhs.net 
  
 ## Meeting
 ### Announcment
