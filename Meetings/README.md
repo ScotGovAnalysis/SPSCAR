@@ -6,6 +6,14 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2021-04-01** | Meeting | [Folder](./Materials/20210401)
+. | Slides | [Proxifier on SCOTS for Secure API Access](./Materials/20210401/Slides-Richard_Haigh-Proxifier_on_SCOTS_for_Secure_API_Access.pptx) - Richard Haigh
+. | Slides | [Poverty in Scotland](./Materials/20210401/Slides-Maike_Waldmann-Poverty_in_Scotland.pptx) - Maike Waldmann
+. | App | [Poverty Report](https://data.gov.scot/poverty) - Maike Waldmann
+. | Code | [Poverty Codebase](https://github.com/DataScienceScotland/poverty-publications) - Maike Waldmann
+. | Template | [Report Template](https://github.com/DataScienceScotland/poverty_template) - Maike Waldmann
+. | Slides | [Population Dashboard](./Materials/20210401/Slides-Rhi_Batstone-Population_Dashboard.pptx) - Rhi Batstone
+. | App | [Population Dashboard App](https://scotland.shinyapps.io/population_dashboard/) - Rhi Batstone
 **2020-11-26** | Meeting | [Folder](./Materials/20201126)
 . | Slides | Automating Data Extraction from Stat-Xplore* - Andrew Waugh
 . | Slides | [COVID Wider Impacts Dashboard](./Materials/20201126/Slides-Jaime_Villacampa-Covid_Wider_Impacts_Dashboard.pptx) - Jaime Villacampa
