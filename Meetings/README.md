@@ -6,6 +6,11 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2019-07-23** | Meeting | [Folder](./Materials/20190723)
+. | Slides | [Debugging in Shiny](./Materials/20190723/Slides-Jaime_Villacampa-Debugging_in_Shiny.pptx) - Jaime Villacampa
+. | Slides | [Convictions in Scotland](./Materials/20190723/Slides-Jamie_Robertson-Convictions_in_Scotland.pptx) - Jamie Robertson
+. | Slides | Crime Survey 2017/18* - Michael Edie
+. | Slides | Usability Tests* - Nikos Alexandrou
 **2019-04-24** | Meeting | [Folder](./Materials/20190424)
 . | Slides | [Shiny Modules](./Materials/20190424/Slides-Jaye_Ware-Shiny_Modules.pptx) - Jaye Ware
 . | Slides | Accessibility Awareness* - Kevin White
