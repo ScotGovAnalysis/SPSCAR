@@ -6,6 +6,11 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2020-01-23** | Meeting | [Folder](./Materials/20200123)
+. | Slides | [Using JQuery in Shiny Apps](./Materials/20200123/Slides-Jaye_Ware-Using_Jquery_in_Shiny_Apps.pptx) - Jaye Ware
+. | Slides | [Tripe I Shiny Talk](./Materials/20200123/Slides-Liz_Richardson-Triple_I_Shiny_Talk.pptx) - Liz Richardson
+. | Slides | Accelerator and Scottish Burden of Disease* - Maite Thrower
+. | Slides | RMarkdown Shiny* - Vicky Elliot
 **2019-10-25** | Meeting | [Folder](./Materials/20191025)
 . | Slides | [Coding in the Open](./Materials/20191025/Slides-Joseph_Adams-Coding_in_the_Open.pptx) - Joseph Adams
 . | Slides | SG RESAS BVD App* - Kirsty Naylor
