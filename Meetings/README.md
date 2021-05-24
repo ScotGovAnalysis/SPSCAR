@@ -6,6 +6,10 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2019-10-25** | Meeting | [Folder](./Materials/20191025)
+. | Slides | [Coding in the Open](./Materials/20191025/Slides-Joseph_Adams-Coding_in_the_Open.pptx) - Joseph Adams
+. | Slides | SG RESAS BVD App* - Kirsty Naylor
+. | Slides | [LGBF Sparklines](./Materials/20191025/Slides-Nick_Cassidy-LGBF_Sparklines.pptx) - Nick Cassidy
 **2019-07-23** | Meeting | [Folder](./Materials/20190723)
 . | Slides | [Debugging in Shiny](./Materials/20190723/Slides-Jaime_Villacampa-Debugging_in_Shiny.pptx) - Jaime Villacampa
 . | Slides | [Convictions in Scotland](./Materials/20190723/Slides-Jamie_Robertson-Convictions_in_Scotland.pptx) - Jamie Robertson
