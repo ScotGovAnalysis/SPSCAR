@@ -6,6 +6,9 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2018-10-23** | Meeting | [Folder](./Materials/20181023)
+. | Slides | [Plotly](./Materials/20181023/Slides-Jaime_Villacampa-Plotly.pptx) - Jaime Villacampa
+. | Slides | [Google Analytics](./Materials/20181023/Slides-Joseph_Adams-Google_Analytics.pptx) - Joseph Adams
 **2018-07-25** | Meeting | [Folder](./Materials/20180725)
 . | Slides | [Maps in R and Shiny](./Materials/20180725/Slides-Jaime_Villacampa-Maps_in_R_and_Shiny.pptx) - Jaime Villacampa
 . | Slides | ScotPHO* - Vicky Elliot
