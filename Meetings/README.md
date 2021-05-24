@@ -6,6 +6,11 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2020-11-26** | Meeting | [Folder](./Materials/20201126)
+. | Slides | Automating Data Extraction from Stat-Xplore* - Andrew Waugh
+. | Slides | [COVID Wider Impacts Dashboard](./Materials/20201126/Slides-Jaime_Villacampa-Covid_Wider_Impacts_Dashboard.pptx) - Jaime Villacampa
+. | Slides | [COVID Four Harms Dashboard](./Materials/20201126/Slides-Joseph_Adams-COVID-19_Four_Harms_Dashboard.pptx) - Joseph Adams
+. | Slides | [Official Statistics in R Markdown](./Materials/20201126/Slides-Maike_Waldmann-WAS_Report-Official_Statistics_in_RMarkdown.pptx) - Maike Waldmann
 **2020-01-23** | Meeting | [Folder](./Materials/20200123)
 . | Slides | [Using JQuery in Shiny Apps](./Materials/20200123/Slides-Jaye_Ware-Using_Jquery_in_Shiny_Apps.pptx) - Jaye Ware
 . | Slides | [Tripe I Shiny Talk](./Materials/20200123/Slides-Liz_Richardson-Triple_I_Shiny_Talk.pptx) - Liz Richardson
