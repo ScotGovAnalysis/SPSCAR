@@ -6,6 +6,9 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2018-07-25** | Meeting | [Folder](./Materials/20180725)
+. | Slides | [Maps in R and Shiny](./Materials/20180725/Slides-Jaime_Villacampa-Maps_in_R_and_Shiny.pptx) - Jaime Villacampa
+. | Slides | ScotPHO* - Vicky Elliot
 **2018-03-28** | Meeting | [Folder](./Materials/20180328)
 . | Slides | [Shiny User Group](./Materials/20201126/Slides-Cara_Connachan-Shiny_User_Group.pptx) - Cara Connachan
 . | Slides | [Map Example](./Materials/20201126/Slides-Nick_Cassidy-Map_Example.pptx) - Nick Cassidy
