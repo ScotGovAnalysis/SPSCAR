@@ -6,6 +6,11 @@ These meetings are a collaboration across public sector, sharing details about p
 
 **Date** | **Type** | **Link**
 ----------- | ------------- | -------------
+**2019-04-24** | Meeting | [Folder](./Materials/20190424)
+. | Slides | [Shiny Modules](./Materials/20190424/Slides-Jaye_Ware-Shiny_Modules.pptx) - Jaye Ware
+. | Slides | Accessibility Awareness* - Kevin White
+. | Slides | Accessibility Awareness with Shiny* - Kevin White
+. | Document | [Risk Management Guide](./Materials/20190424/Doc-SG-Risk_Management_Guide.pdf) - Scottish Government
 **2018-10-23** | Meeting | [Folder](./Materials/20181023)
 . | Slides | [Plotly](./Materials/20181023/Slides-Jaime_Villacampa-Plotly.pptx) - Jaime Villacampa
 . | Slides | [Google Analytics](./Materials/20181023/Slides-Joseph_Adams-Google_Analytics.pptx) - Joseph Adams
