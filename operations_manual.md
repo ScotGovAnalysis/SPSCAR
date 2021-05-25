@@ -44,7 +44,7 @@ Send emails to:
 * Graeme West - from Audit Scotland  
 
 Copy this into the to: email field:  
-joseph.adams@nrscotland.gov.uk; jaime.villacampa@phs.scot; nicholas.cassidy@improvementservice.org.uk; Damon.Davies@parliament.scot; Gregor.Welsh@firescotland.gov.uk; jbird@sfc.ac.uk; Rachael.Fairley@ros.gov.uk; May.Shirkhorshidi@nature.scot; L-Allen@dfid.gov.uk; Faith.Chung@fss.scot; Nicola.Potts@sportscotland.org.uk; gwest@audit-scotland.gov.uk
+joseph.adams@nrscotland.gov.uk; jaime.villacampa@phs.scot; nicholas.cassidy@improvementservice.org.uk; Damon.Davies@parliament.scot; Gregor.Welsh@firescotland.gov.uk; jbird@sfc.ac.uk; Rachael.Fairley@ros.gov.uk; May.Shirkhorshidi@nature.scot; L-Allen@dfid.gov.uk; Nicola.Potts@sportscotland.org.uk; gwest@audit-scotland.gov.uk
 
 Then they would forward emails on to their R users groups.
 * Joseph Adams to RUserGroupDL@gov.scot
