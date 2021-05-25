@@ -28,26 +28,6 @@ Some of the challenges this group is facing are:
 Each organisation has different access to R versions and updates and has different restrictions to access the shinyapps.io server.
 The expertise within each organisation is limited (although this group helps it to be galvanised). It might be a good idea to procure some advanced training for group members.
 
-## Contacts
-Send emails to:
-* Joseph Adams - from National Records of Scotland and the Scottish Government  
-* Jaime Villacampa - from Public Health Scotland  
-* Nick Cassidy - from Improvement Service  
-* Damon Davies - from the Scottish Parliament  
-* Gregor Welsh - from the Scottish Fire and Rescue Service  
-* Joshua Bird - from the Scottish Funding Council  
-* Rachael Fairley  - from Registers of Scotland  
-* May Shirkhorshidi - from Scottish Natural Heritage  
-* Laura Allen - From UK Department International Development  
-* Faith Chung - from Food Standards Scotland  
-* Nicola Potts - from sportscotland  
-* Graeme West - from Audit Scotland  
-
-Copy this into the to: email field:  
-joseph.adams@nrscotland.gov.uk; jaime.villacampa@phs.scot; nicholas.cassidy@improvementservice.org.uk; Damon.Davies@parliament.scot; Gregor.Welsh@firescotland.gov.uk; jbird@sfc.ac.uk; Rachael.Fairley@ros.gov.uk; May.Shirkhorshidi@nature.scot; L-Allen@dfid.gov.uk; Faith.Chung@fss.scot; Nicola.Potts@sportscotland.org.uk; gwest@audit-scotland.gov.uk
-
-Then they would forward emails on to their R users groups.
-* Joseph Adams to RUserGroupDL@gov.scot
  
 ## Meeting
 ### Announcment
@@ -175,21 +155,6 @@ Thanks,
 Is there anything people should know when they join our meetings?
 
 ## shinyapps.io
-This is the list of people who have login details and password for scotland.shinyapps.io
-
-**SG**
-* Jaye Ware (jaye.ware@gov.scot)
-* Euan Shields (euan.shields@gov.scot)
-* Jeremy Darot (jeremy.darot@gov.scot)
-
-**NRS**
-* Victoria Avila (victoria.avila@gov.scot)
-* Joseph Adams (joseph.adams@gov.scot)
-
-**NHS**
-* Jaime Villacampa (jaime.villacampa@phs.scot)
-* Russell McCreath (russell.mccreath@phs.scot)
- 
 There will be only one pair token/secret at a time that will be changed every 6 months.  
 * Last change: December 2018  
 * Next change: June 2019
