@@ -114,8 +114,17 @@ Once you get back you me, I’ll share these minutes more widely.
 Thanks,
 **NAME**
 ```
+### New online meeting
 
-### New meeting
+1. Set up a meeting every three months. Currently:
+    * April, October, January, July
+2. Choose a suitable date and time
+3. Update attendance form with details for next meeting: https://docs.google.com/forms/d/1bReJpvTL0UKbXklnQUavUxDcfcDqW47151z4qvfBXuQ/edit
+6. Remove responses from form before sharing it 
+7. Update agenda: https://drive.google.com/open?id=1-hf0jTUxqqQOXeSXhp0eH4bxgt5CDo6-wvTVNQ2aaUo
+8. Create an MS Teams meeting and invite all attendees who signed up via the Google form. 
+
+### New in person meeting
 
 1. Set up a meeting every three months. Currently:
     * Edinburgh: April, October
