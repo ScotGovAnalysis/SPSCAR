@@ -85,7 +85,7 @@ Thanks,
 
 ### After meeting
 
-1. Update minutes: https://docs.google.com/forms/d/1bReJpvTL0UKbXklnQUavUxDcfcDqW47151z4qvfBXuQ/edit
+1. Update minutes: https://drive.google.com/open?id=1-hf0jTUxqqQOXeSXhp0eH4bxgt5CDo6-wvTVNQ2aaUo
 2. When required add files to Google drive folder: https://drive.google.com/drive/folders/1MhxQnZVp5FN__N0zIH2GsPMbVRKC4i6T
 3. Naming convention for new files. So far I've been using the fields below separated by space hyphen space (' - ')
 4.   
